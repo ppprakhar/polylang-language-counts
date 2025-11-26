@@ -7,6 +7,7 @@
  * Text Domain:       polylang-language-counts
  * Requires at least: 5.0
  * Requires PHP:      7.4
+ * License:           GPLv2 or later
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
